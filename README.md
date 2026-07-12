@@ -178,6 +178,6 @@ Conclusão: **Junho/2026**
 
 Técnico Eletromecânico em transição para a área de Ciência de Dados e Inteligência Artificial.
 
-LinkedIn: [Leonardo Mafra](www.linkedin.com/in/leonardo-freitas-mafra)
+LinkedIn: [Leonardo Mafra](https://linkedin.com/in/leonardo-freitas-mafra)
 
 GitHub: [Leonardo Mafra](https://github.com/LeonardoMafra)
