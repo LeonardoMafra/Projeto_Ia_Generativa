@@ -174,7 +174,7 @@ Conclusão: **Junho/2026**
 
 # Autor
 
-**Leonardo Freitas Mafra**
+**Leonardo de Freitas Mafra**
 
 Técnico Eletromecânico em transição para a área de Ciência de Dados e Inteligência Artificial.
 
