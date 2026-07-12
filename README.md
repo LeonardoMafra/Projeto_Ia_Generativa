@@ -86,9 +86,11 @@ Categorias identificadas:
 
 ---
 
-# 📷 Demonstração
+# Demonstração
 
-> *(Adicionar imagens ou GIFs da aplicação aqui.)*
+### Desafio 1
+
+![Desafio 1](assets/desafio1.gif)
 
 # Como executar
 
