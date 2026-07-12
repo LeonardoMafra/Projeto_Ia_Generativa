@@ -92,6 +92,12 @@ Categorias identificadas:
 
 ![Desafio 1](desafio1.gif)
 
+### Desafio 2
+![Desafio 2](desafio2.gif)
+
+### Desafio 3
+![Desafio 3](desafio3.gif)
+
 # Como executar
 
 Clone o projeto
