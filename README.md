@@ -71,7 +71,7 @@ Categorias identificadas:
 
 ---
 
-# 🛠 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - Python
 - Streamlit
