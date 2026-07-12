@@ -1,4 +1,4 @@
-# 🤖 Projeto IA Generativa | SENAI
+# Projeto IA Generativa | SENAI
 
 > Projeto desenvolvido durante o curso **Inteligências Artificiais Generativas Aplicada à Programação - ChatGPT**, realizado pelo **SENAI-SP**.
 
@@ -6,7 +6,7 @@ Este repositório reúne os desafios desenvolvidos durante o curso, aplicando co
 
 ---
 
-# 📌 Objetivos
+# Objetivos
 
 Aplicar na prática os conhecimentos adquiridos durante o curso através do desenvolvimento de aplicações utilizando IA Generativa.
 
@@ -14,7 +14,7 @@ O projeto contempla desde modelos tradicionais de Machine Learning até aplicaç
 
 ---
 
-# 🚀 Funcionalidades
+# Funcionalidades
 
 ## ✅ Desafio 1 — Classificação Inteligente de Produtos
 
@@ -29,7 +29,7 @@ Sistema que classifica automaticamente produtos de e-commerce em categorias util
 
 ---
 
-## 🤖 Desafio 2 — Chatbot Personalizável
+## ✅ Desafio 2 — Chatbot Personalizável
 
 Assistente virtual baseado em IA Generativa onde o usuário pode definir o comportamento da IA antes de iniciar a conversa.
 
@@ -43,7 +43,7 @@ Assistente virtual baseado em IA Generativa onde o usuário pode definir o compo
 
 ---
 
-## 🧠 Desafio 3 — Agente Inteligente com LangGraph
+## ✅ Desafio 3 — Agente Inteligente com LangGraph
 
 Agente desenvolvido utilizando LangGraph capaz de identificar o tipo de pergunta realizada pelo usuário antes de gerar uma resposta.
 
@@ -90,7 +90,7 @@ Categorias identificadas:
 
 > *(Adicionar imagens ou GIFs da aplicação aqui.)*
 
-# ⚙️ Como executar
+# Como executar
 
 Clone o projeto
 
