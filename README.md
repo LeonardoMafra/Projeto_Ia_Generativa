@@ -90,7 +90,7 @@ Categorias identificadas:
 
 ### Desafio 1
 
-![Desafio 1](assets/desafio1.gif)
+![Desafio 1](desafio1.gif)
 
 # Como executar
 
